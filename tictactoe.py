@@ -20,7 +20,7 @@ def display_board(board):
 
     # Showing the empty layoyt of the board!
     print("\n"*50)
-    print(board[9] + ' | ' + board[8] + ' | ' + board[9])
+    print(board[7] + ' | ' + board[8] + ' | ' + board[9])
     print('- ' + '- ' + '- ' + '- ' + '- ')
     print(board[4] + ' | ' + board[5] + ' | ' + board[6])
     print('- ' + '- ' + '- ' + '- ' + '- ')
